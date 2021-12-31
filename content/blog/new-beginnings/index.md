@@ -1,7 +1,7 @@
 ---
-title: Avijit Samanta
+title: Tista Dutta
 date: "2021-11-28T22:40:32.169Z"
-description: Avijit Samanta is a MCA student at Future Institute of Engineering & Management. This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: Tista Dutta is a B.tech student at Supreme knowlwdge Foundation Group of Institutions. This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
