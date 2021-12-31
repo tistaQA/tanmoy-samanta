@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Avijit `,
+    title: `Gatsby Tista `,
     author: {
-      name: `Avijit Samanta`,
+      name: `Tista Dutta`,
       summary: `who lives and works in India building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `AvijitS62916909`,
+      twitter: `TistaS62916909`,
     },
   },
   plugins: [
